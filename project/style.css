@@ -15,11 +15,13 @@
     "Helvetica Neue",
     sans-serif;
 }
+
 html,
 body {
   height: 100%;
   width: 100%;
 }
+
 #main {
   min-height: 100%;
   background: #1d1d1d;
@@ -50,6 +52,7 @@ body {
   margin: auto;
   margin-top: 180px;
 }
+
 #hero h1 {
   font-size: 150px;
   text-transform: uppercase;
