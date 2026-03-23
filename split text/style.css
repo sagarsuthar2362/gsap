@@ -17,8 +17,14 @@ body {
   align-items: center;
   justify-content: center;
 }
-#main .text{
-    width: 50%;
-    text-align: center;
-    font-size: 2rem;
+#main .text {
+  width: 50%;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.words,
+.chars,
+.lines {
+  border: 2px solid white;
 }
