@@ -3,7 +3,7 @@ var tl = gsap.timeline({
     trigger: "#paper",
     start: "top 30% ",
     scrub: 2,
-    markers: true,
+    // markers: true,
   },
 });
 
